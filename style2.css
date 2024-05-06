@@ -1,0 +1,21 @@
+h1{
+    color: orange;
+    border: 3px solid red;
+}
+h2{
+    background-color: aquamarine;
+    color: rgb(100, 100, 100);
+    border: 2px solid black;
+}
+h3{
+    color: rgba(0,0,0,0.5);
+}
+h4{
+    color: rgba(0,0,0,2);
+}
+h5{
+    color: #524560 ;
+}
+h6{
+    color: hsl(0, 90%, 53%);
+}
